@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Imran Hossain @raajuss 
+- 👋 Hi, I’m Imran Hossain 
 
 ###  I am a full stack developer
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me ...
 
-### You can dm me at Discord @raajuss#1923
+**Available to be hired...** Drop me a line at ⌲  *[imran.hossain.1096@gmail.com](mailto:imran.hossain.1096@gmail.com)*
 
 <!---
 raajuss/raajuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

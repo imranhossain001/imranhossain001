@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there <a href="#"><img src="https://raw.githubusercontent.com/imranhossain001/imranhossain001/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Imran Hossain
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Flutter+NodeJS+Full+Stack+Developer;FastAPI+Expert;Java+Programmer;"></img>
+  <img align="center" src="https://http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Flutter+NodeJS+Full+Stack+Developer;FastAPI+Expert;Java+Programmer;"></img>
 </h1>
 
 <h3 align="center">Flutter Developer | NodeJS Backend Expert | FastAPI Expert | API Design | Docker | DevOps | Linux Sysadmin | Server Administrator | AWS | Azure | GCP</h3>

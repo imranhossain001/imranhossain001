@@ -11,5 +11,5 @@
 
 
 
-**Available to be hired...** Drop me a line at ⌲  *[imran.hossain.main@gmail.com](mailto:imran.hossain.1096@gmail.com)*
+**Available to be hired...** Drop me a line at ⌲  *[imran.hossain.inbox@gmail.com](mailto:imran.hossain.inbox@gmail.com)*
 
